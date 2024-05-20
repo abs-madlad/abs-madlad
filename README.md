@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on projects on Web Development and Machine Learning
 - 📫 Reach out to me: reachouttokanishk@gmail.com
-- ⚡ Fun fact: ...
+- Peace Out
 
 <!---
 abs-madlad/abs-madlad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
