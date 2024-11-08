@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating tech that solves problems, be it in any domain.
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on projects on Web Development and Machine Learning
-- 📫 Reach out to me: reachouttokanishk@gmail.com
+- 📫 Reach out to me: workforkanishk@gmail.com
 - Peace Out
 
 <!---
